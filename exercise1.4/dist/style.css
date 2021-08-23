@@ -1,0 +1,25 @@
+p{
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 40px
+}
+
+main{
+  border: 10px solid #4285f4;
+  width: 400px
+}
+    
+.red{
+  background:#E67676
+}
+.yellow{
+background: #F2F062
+}
+.aquamarine{
+  background:#A9E6E6
+}
+.blue{
+  background:#7692E4
+}
