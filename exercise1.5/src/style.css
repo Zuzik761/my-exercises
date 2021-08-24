@@ -1,0 +1,24 @@
+ .red{
+  color: white;
+  font-size: 40px;
+  background:#E67676;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  border: 10px solid blue;
+  text-align: center;
+  font-family: sans-serif
+}
+.blue{
+  color: white;
+  font-size: 40px;
+  background:#A9E6E6;
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  border: 10px solid blue;
+  text-align: center;
+  font-family: sans-serif
+  
+}
+  

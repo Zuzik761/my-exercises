@@ -1,0 +1,152 @@
+.container{
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  }
+
+img{
+  width: 100%;
+  height: 100%;
+  
+}
+
+.header{
+  display: flex
+    
+}
+
+.title1{
+  font-family: 'Abril Fatface';
+  position: absolute;
+  left: 760px;
+  top: 300px; ;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
+}
+
+#hi{
+  font-size: 60px;
+  margin: 0px;
+}
+
+#Anakin{
+  margin: 0px;
+  font-size: 90px;
+ 
+  }
+.main{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 5px solid black
+  
+}
+
+.analytical{
+  font-family: 'Josefin Sans';
+  font-size: 25px;
+  line-height: 1.5;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  
+}
+
+.list1{
+  width: 1000px;
+  display: block;
+  margin-left: 60px;
+   
+}
+
+.list{
+  width: 1000px;
+  display: block;
+  margin-left: 60px;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 40px;  
+   
+}
+
+.title2{
+  font-family: 'Josefin Sans';
+  font-size: 30px;
+  padding-left: 60px;
+  margin-bottom: 0px;
+  line-height: 1.5
+}
+
+.citation1{
+  font-family: 'Abril Fatface';
+  display: flex;
+  flex-wrap: wrap;
+  width: 900px; 
+  height: 200px;
+  color: white;
+  background-color: grey;
+  justify-content: flex-start;
+  line-height: 1;
+  font-size: 55px;
+  color: white
+  } 
+
+blockquote::before{
+  content: "“";
+  color: white;
+  font-size: 150px;
+      
+}
+.cit{
+  margin: 0px;
+   
+      }
+
+.citation2{
+  font-family: 'Abril Fatface';
+  display: flex;
+  width: 900px; 
+  height: 250px;
+  color: white;
+  background-color: grey;
+  justify-content: center;
+  font-size: 55px;
+  color: white;
+  line-height: 1;
+        
+  } 
+ 
+h2{
+  font-family: 'Josefin Sans';
+  font-size: 25px;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-left: 60px;
+  padding-bottom: 0px;
+  }
+
+.cursive{
+  font-family: 'Merriweather';
+  font-size: 18px;
+  padding-left: 60px; 
+  margin-top: 0px;
+  
+   } 
+
+.text{
+   font-family: 'Josefin Sans';
+   font-size: 20px;
+   padding-left: 60px;
+   line-height: 1.5;
+   margin-bottom: 40px;
+  
+  
+ }
+
+footer{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px
+}

@@ -1,0 +1,23 @@
+h1{
+  color: #EC7063
+}
+h2{
+  color: #7D3C98
+}
+p{
+  width: 500px
+}
+ul{
+  list-style-type: square
+}
+ol{
+  list-style-type: upper-roman;
+  color: #FF33FF;
+  text-decoration: underline
+  
+}
+
+.black{
+  color: black;
+  text-decoration: underline
+}

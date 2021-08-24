@@ -1,0 +1,26 @@
+.page{
+  font-family: 'Sen';
+}
+
+.title{
+  padding: 0px;
+  font-size: 50px
+}
+
+div{
+  display: flex;
+  width: 200px;
+     }
+
+a{
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  display: block
+  }
+
+img{
+  display: flex;
+  width: 150px;
+  padding: 30px
+   }

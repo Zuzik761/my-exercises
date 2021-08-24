@@ -1,0 +1,33 @@
+label{
+  display: block;
+  color: #000000;
+  font-size: 25px;
+  padding: 0px;
+  font-family: 'Source Sans Pro';
+  margin: 10px;
+  text-transform: uppercase;
+}
+input{
+  display: block;
+  font-size: 25px;;
+  border-color: #66ff66;
+  border-radius: 10px;
+  border-width: 3px;
+  padding: 25px;
+  margin: 10px;
+  
+    
+}
+
+button{
+  color: black;
+  background-color: #7cfc00;
+  border: none;
+  font-size: 30px;
+  padding: 25px;
+  border-radius: 50px;
+  margin: 10px;
+  text-transform: uppercase
+ 
+  
+}
